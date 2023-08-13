@@ -1,4 +1,5 @@
 0x00. AirBnB clone - The console
+
 0x00.Table of contents
 0x01 Introduction
 0x02 Environment
@@ -8,6 +9,7 @@
 0x06 Authors
 
 0x01 Introduction
+
 Team project to build a clone of AirBnB.
 
 The console is a command interpreter to manage objects abstraction between objects and how they are stored.
@@ -24,6 +26,7 @@ Storage
 All the classes are handled by the Storage engine in the FileStorage Class.
 
 0x02 Environment
+
 Suite CRM terminal python Suite CRM Suite CRM git distributed version control system Github
 
 Style guidelines:
