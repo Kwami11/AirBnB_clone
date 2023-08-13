@@ -1,11 +1,17 @@
 0x00. AirBnB clone - The console
 
 0x00 Table of contents
+
 0x01 Introduction
+
 0x02 Environment
+
 0x03 Installation
+
 0x04 Testing
+
 0x05 Usage
+
 0x06 Authors
 
 
@@ -36,6 +42,7 @@ PEP8
 All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
 
 0x03 Installation
+
 git clone https://github.com/Kwami11/AirBnB_clone.git
 change to the AirBnb directory and run the command:
 
@@ -76,9 +83,11 @@ EOF  help  quit
 (hbnb)
 $
 0x04 Testing
+
 All the test are defined in the tests folder.
 
 Documentation
+
 Modules:
 python3 -c 'print(__import__("my_module").__doc__)'
 Classes:
@@ -102,6 +111,7 @@ To run the tests in non-interactive mode, and discover all the test, you can use
 
 python3 -m unittest discover tests
 0x05 Usage
+
 Start the console in interactive mode:
 $ ./console.py
 (hbnb)
@@ -160,6 +170,8 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 (hbnb)
 
 0x06 Authors
+
 Frank Tetteh <franckkwami11@gmail.com>
+
 Aniapa Lord Isaac Kofi <isaacaniapa32@gmail.com>
 
